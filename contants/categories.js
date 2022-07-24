@@ -1,0 +1,1 @@
+export const plantCategories=["POPULAR","ORGANIC","INDOORS","SYNTHETIC"]
